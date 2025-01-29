@@ -22,13 +22,13 @@ http://localhost:8080/patterns/generate?input=MADHU
 
 The application processes each letter and generates ASCII art.
 
-The output is returned in a formatted <pre> tag for proper display.
+The output is returned in a formatted <pre> tag.
 
 Project Structure
 
 1. PatternApplication (Main Class)
 
-The entry point of the Spring Boot application.
+This is the entry point of the Spring Boot application.
 
 2. PatternController (REST Controller)
 
